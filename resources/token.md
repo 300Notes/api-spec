@@ -33,4 +33,4 @@
 ```
 
 ### Endpoints used
- - [`/auth/token`](/spec/endpoints/auth/token.md)
+ - **[`/auth/token`](/endpoints/auth/token.md)**

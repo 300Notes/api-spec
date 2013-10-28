@@ -65,4 +65,4 @@
 ```
 
 ### Endpoints used
- - [`/profiles/{id}`](/spec/endpoints/profiles/single.md)
+ - **[`/profiles/{id}`](/endpoints/profiles/single.md)**
