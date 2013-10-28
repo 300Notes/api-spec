@@ -31,4 +31,4 @@ profile for a successful response.
 }
 ```
 #### Body
-[Profile](/spec/resources/profile.md)
+**[`Profile`](/resources/profile.md)**

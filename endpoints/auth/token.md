@@ -106,4 +106,4 @@ This request is used to deliver access credentials for a specific profile.
 }
 ```
 #### Body
-[Token](/spec/resources/token.md)
+**[`Token`](/resources/token.md)**
